@@ -1,5 +1,4 @@
-# isaac site de recherche itinéraire train
-Création d'un site existant : Trainline
-petite modification
+# site de recherche d'itinéraire
+Dans le cadre de ma formation Développeur web Junior et en ce qui concerne mes candidatures. Je suis donc mené à réaliser la bare de recherche d'un site existant. Dont voici le lien: https://www.trainline.eu/
+Le site est cours de développement.
 
-Dernière modi en ligne sur GITHUB
